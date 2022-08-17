@@ -1,6 +1,6 @@
-_myouzi = '長山'
-_namae = '輝空'
-_introduce= _myouzi + _namae + 'です。' 
-_nennrei=20
-_str='歳です。'
-puts _introduce+20.to_s+_str
+family_name = '長山'
+first_name = '輝空'
+introduce= family_name + first_name + 'です。' 
+nennrei=20
+str='歳です。'
+puts introduce+ nennrei.to_s+str
